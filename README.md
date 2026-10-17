@@ -1,8 +1,8 @@
-# Hi, I'm Grayson Cox 👋
+# Hi, I'm Grayson Cox 
 
 Software developer and IT technician in Bowling Green, KY. I build business software that real teams use every day, and I fix and build the hardware it runs on.
 
-🌐 **Portfolio:** [graysoncodes.org](https://graysoncodes.org)
+ **Portfolio:** [graysoncodes.org](https://graysoncodes.org)
 
 ## Featured work
 
